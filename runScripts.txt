@@ -1,0 +1,8 @@
+for c#:
+
+csc TaskC.cs
+TaskC.exe "C:\file.csv" 2 Alberto
+
+for Node: 
+
+node TaskNode.js "C:\\file.csv" 2 Alberto
